@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "adb3c38a9c7ddce4b1378f6803350aa1",
+    "revision": "6fefc779daf168f6573a7896dbafa9ec",
     "url": "//AleksandrKalinin.github.io/e-commerce/index.html"
   },
   {
-    "revision": "5d705fcfefcc91d8152a",
+    "revision": "ed42801e90739b290095",
     "url": "//AleksandrKalinin.github.io/e-commerce/static/css/2.03b6a008.chunk.css"
   },
   {
-    "revision": "bbf2b2d6a42a9ce07d6d",
+    "revision": "398e420e436cabac6b30",
     "url": "//AleksandrKalinin.github.io/e-commerce/static/css/main.8565e5a6.chunk.css"
   },
   {
-    "revision": "5d705fcfefcc91d8152a",
-    "url": "//AleksandrKalinin.github.io/e-commerce/static/js/2.7ce10b6d.chunk.js"
+    "revision": "ed42801e90739b290095",
+    "url": "//AleksandrKalinin.github.io/e-commerce/static/js/2.bb7eef38.chunk.js"
   },
   {
     "revision": "7cebd084e730082b33b82d88f394b941",
-    "url": "//AleksandrKalinin.github.io/e-commerce/static/js/2.7ce10b6d.chunk.js.LICENSE.txt"
+    "url": "//AleksandrKalinin.github.io/e-commerce/static/js/2.bb7eef38.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bbf2b2d6a42a9ce07d6d",
-    "url": "//AleksandrKalinin.github.io/e-commerce/static/js/main.9484ccb9.chunk.js"
+    "revision": "398e420e436cabac6b30",
+    "url": "//AleksandrKalinin.github.io/e-commerce/static/js/main.e89db55a.chunk.js"
   },
   {
     "revision": "8ce1587221cae434d9be",

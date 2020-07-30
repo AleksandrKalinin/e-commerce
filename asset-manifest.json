@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "//AleksandrKalinin.github.io/e-commerce/static/css/main.8565e5a6.chunk.css",
-    "main.js": "//AleksandrKalinin.github.io/e-commerce/static/js/main.9484ccb9.chunk.js",
-    "main.js.map": "//AleksandrKalinin.github.io/e-commerce/static/js/main.9484ccb9.chunk.js.map",
+    "main.js": "//AleksandrKalinin.github.io/e-commerce/static/js/main.e89db55a.chunk.js",
+    "main.js.map": "//AleksandrKalinin.github.io/e-commerce/static/js/main.e89db55a.chunk.js.map",
     "runtime-main.js": "//AleksandrKalinin.github.io/e-commerce/static/js/runtime-main.5afc0f21.js",
     "runtime-main.js.map": "//AleksandrKalinin.github.io/e-commerce/static/js/runtime-main.5afc0f21.js.map",
     "static/css/2.03b6a008.chunk.css": "//AleksandrKalinin.github.io/e-commerce/static/css/2.03b6a008.chunk.css",
-    "static/js/2.7ce10b6d.chunk.js": "//AleksandrKalinin.github.io/e-commerce/static/js/2.7ce10b6d.chunk.js",
-    "static/js/2.7ce10b6d.chunk.js.map": "//AleksandrKalinin.github.io/e-commerce/static/js/2.7ce10b6d.chunk.js.map",
+    "static/js/2.bb7eef38.chunk.js": "//AleksandrKalinin.github.io/e-commerce/static/js/2.bb7eef38.chunk.js",
+    "static/js/2.bb7eef38.chunk.js.map": "//AleksandrKalinin.github.io/e-commerce/static/js/2.bb7eef38.chunk.js.map",
     "index.html": "//AleksandrKalinin.github.io/e-commerce/index.html",
-    "precache-manifest.18a3d44c2bc9d89427abc641544fcafd.js": "//AleksandrKalinin.github.io/e-commerce/precache-manifest.18a3d44c2bc9d89427abc641544fcafd.js",
+    "precache-manifest.6af29b57de9446eec97637957c01bdb0.js": "//AleksandrKalinin.github.io/e-commerce/precache-manifest.6af29b57de9446eec97637957c01bdb0.js",
     "service-worker.js": "//AleksandrKalinin.github.io/e-commerce/service-worker.js",
     "static/css/2.03b6a008.chunk.css.map": "//AleksandrKalinin.github.io/e-commerce/static/css/2.03b6a008.chunk.css.map",
     "static/css/main.8565e5a6.chunk.css.map": "//AleksandrKalinin.github.io/e-commerce/static/css/main.8565e5a6.chunk.css.map",
-    "static/js/2.7ce10b6d.chunk.js.LICENSE.txt": "//AleksandrKalinin.github.io/e-commerce/static/js/2.7ce10b6d.chunk.js.LICENSE.txt",
+    "static/js/2.bb7eef38.chunk.js.LICENSE.txt": "//AleksandrKalinin.github.io/e-commerce/static/js/2.bb7eef38.chunk.js.LICENSE.txt",
     "static/media/all.css": "//AleksandrKalinin.github.io/e-commerce/static/media/fa-solid-900.cdfec5cf.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.5afc0f21.js",
     "static/css/2.03b6a008.chunk.css",
-    "static/js/2.7ce10b6d.chunk.js",
+    "static/js/2.bb7eef38.chunk.js",
     "static/css/main.8565e5a6.chunk.css",
-    "static/js/main.9484ccb9.chunk.js"
+    "static/js/main.e89db55a.chunk.js"
   ]
 }
