@@ -12,7 +12,7 @@ import {ConnectedRouter} from 'connected-react-router';
 import configureStore, {history} from './store/index';
 
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Route
 } from "react-router-dom";
 
