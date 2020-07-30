@@ -24,7 +24,7 @@
     "redux-thunk": "^2.3.0",
     "underscore": "^1.9.1"
   },
-  "homepage": "https://https://AleksandrKalinin.github.io/e-commerce",
+  "homepage": "https://AleksandrKalinin.github.io/e-commerce",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
