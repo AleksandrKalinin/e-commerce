@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '@fortawesome/fontawesome-free/css/all.css';
-import '@fortawesome/fontawesome-free/js/all.js';
+import 'fortawesome/fontawesome-free/css/all.css';
+import 'fortawesome/fontawesome-free/js/all.js';
 import Cart from './Cart';
 import Cameras from './Cameras'
 
